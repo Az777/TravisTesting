@@ -1,7 +1,7 @@
 {
-  "name": "hello-team",
+  "name": "TravisTesting",
   "description": "A demo for github and travis ci for team collaboration",
-  "author": "name <email@email.com>",
+  "author": "Az777 <basaqr001@knights.gannon.edu>",
   "version": "0.0.1",
   "devDependencies": {
     "grunt": "~0.3.17"
